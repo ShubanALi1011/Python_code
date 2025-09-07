@@ -1,0 +1,3 @@
+music = {
+    "love" : "https://ssjjs"
+}
